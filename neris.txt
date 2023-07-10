@@ -1,2 +1,3 @@
-Hello mommy NENE
-thi is good
+Folder for pics named (pics)
+Folder for icon named (icons)
+TextFile for extras (colors scheme, Font types, other instructions on page)
